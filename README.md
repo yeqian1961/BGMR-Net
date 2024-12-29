@@ -10,6 +10,7 @@ The pre-trained model can be found on https://pan.baidu.com/s/1HGS1PZBrhe25B7KS3
 # Dataset 
 
 The testing dataset (COD10K-test + CAMO-test + CHAMELEON) and move it into ./Dataset/TestDataset/, which can be found on https://drive.google.com/file/d/1QEGnP9O7HbN_2tH999O3HRIsErIVYalx/view?usp=sharing.
+
 The training dataset (COD10K-train) which can be found on https://drive.google.com/file/d/1D9bf1KeeCJsxxri6d2qAC7z6O1X_fxpt/view?usp=sharing.
 
 # Trained Model 
@@ -23,6 +24,7 @@ The result maps can be found on: https://pan.baidu.com/s/1UDg_doRufKh4_oySPUowMg
 # Evaluation
 
 Matlab version: https://github.com/DengPingFan/CODToolbox
+
 Python version: https://github.com/lartpang/PySODEvalToolkit
 
 # Contact
